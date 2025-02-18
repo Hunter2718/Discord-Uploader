@@ -1,4 +1,3 @@
-```
 # Contributing to Discord-Uploader
 
 Thank you for your interest in contributing to Discord-Uploader! Contributions are always welcome and encouraged.
@@ -43,6 +42,3 @@ If you contribute consistently and make meaningful contributions, you may be add
 
 ---
 Thank you for helping improve Discord-Uploader! 🚀
-```
-
-
