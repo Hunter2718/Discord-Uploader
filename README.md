@@ -1,4 +1,3 @@
-```
 # Discord-Uploader
 
 A lightweight **CLI tool** for automating file uploads to Discord via webhooks. Designed to be easily used as a **plugin for larger projects**, `Discord-Uploader` provides a simple way to send files, text, and JSON payloads to Discord.
@@ -8,6 +7,7 @@ A lightweight **CLI tool** for automating file uploads to Discord via webhooks. 
 - **Supports file, text, and JSON uploads** to Discord webhooks
 - **Standalone executable** – No need for additional installations
 - **Uses libcurl** for cross-platform compatibility (Linux supported, Windows/macOS coming soon)
+
 - **Future Plans**:
   - GUI version
   - Windows/macOS support
@@ -94,6 +94,3 @@ Contributions are welcome! Please see our **[CONTRIBUTING.md](CONTRIBUTING.md)**
 
 ## ⚖️ License
 See **[LICENSE.md](LICENSE.md)** for more details.
-
----
-```
